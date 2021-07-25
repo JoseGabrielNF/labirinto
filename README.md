@@ -12,5 +12,5 @@ Todas as possibilidades são marcadas em cinza
 o caminho é marcado em laranja, e a barra inferior  
 altera a velocidade do algoritimo.  
 <img src="/readmeimgs/img3.png" alt="img"/> 
-<img src="/readmeimgs/img4.png" alt="img"/> 
+<img src="/readmeimgs/img4.png" alt="img"/>  
 para executar basta clicar no arquivo.
