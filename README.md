@@ -11,8 +11,8 @@ mudar o inicio o fim e desenhar os obstaculos.
 Todas as possibilidades são marcadas em cinza    
 o caminho é marcado em laranja, e a barra inferior  
 altera a velocidade do algoritimo.  
-<img src="/readmeimgs/img3.png" alt="img"/> 
-para executar basta clicar no arquivo.
+<img src="/readmeimgs/img3.png" alt="img"/>   
+para executar basta clicar no arquivo.  
 # Labirinto completo  
 Com o algoritmo completo você pode alterar  
 entre as 3 funções clicando no botão cinza.  
