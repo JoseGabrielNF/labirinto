@@ -16,7 +16,7 @@ um click para ativar o modo de pintura e o outro para desativar.
 <img src="/readmeimgs/img2.png" alt="img"/>  
 Todas as possibilidades são marcadas em cinza    
 o caminho é marcado em laranja, e a barra inferior  
-altera a lentidão do algoritmo (mesmo no zero, a atualização da janela inteira do tkinter interfere no desempenho).    
+altera a lentidão do algoritmo.   
 <img src="/readmeimgs/img3.png" alt="img"/>   
 você pode alterar entre as 3 funções clicando no botão cinza.  
 <img src="/readmeimgs/img5.png" alt="img"/>   
