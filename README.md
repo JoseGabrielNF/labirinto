@@ -4,7 +4,7 @@ Os números '1's representam as paredes e os '0' representam os possiveis caminh
 Seguidos da posição inicial, e a posição em que se deseja chegar.  
 <img src="/readmeimgs/img1.png" alt="img"/>  
 para executar basta digitar o nome do arquivo no terminal.
-# Labirinto visual 
+# Labirinto visual simples
 Você pode alterar o tamanho da matriz com as barras,  
 mudar o inicio o fim e desenhar os obstaculos.  
 <img src="/readmeimgs/img2.png" alt="img"/>  
@@ -14,3 +14,8 @@ altera a velocidade do algoritimo.
 <img src="/readmeimgs/img3.png" alt="img"/> 
 <img src="/readmeimgs/img4.png" alt="img"/>  
 para executar basta clicar no arquivo.
+# Labirinto completo  
+Com o algoritmo completo você pode alterar  
+entre as 3 funções clicando no botão cinza.  
+<img src="/readmeimgs/img5.png" alt="img"/>    
+ 
