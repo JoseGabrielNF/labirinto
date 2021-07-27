@@ -1,4 +1,4 @@
-# Programa executando: https://youtu.be/
+# Programa executando: https://youtu.be/z9xhmYmQRAo
 Foi divido em dois programas, o primeiro é para facilitar o entendimento  
 do algoritmo com uma busca em largura sem a interface grafica do tkinter.  
 O segundo são 3 variações da busca, busca em largura, busca heuristica e A*.  
