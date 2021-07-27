@@ -151,7 +151,6 @@ def a_estrela(inicio,fim,matriz,heuristica):
                         passo=caminhos[paraString(passo)]       # adiciona o proximo passo, baseando se no indice de caminhos definidos   
                         root.after(tempo,None)                  # pausa
                         pintarMatriz(passo,"orange")            # pinta matriz
-                        root.update()                           # atualiza tela usuario
                     caminho.append(inicio)                      # adicionando a posição inicial no caminho
                     caminho.reverse()                           # revertendo a lista   
                     return caminho                              # retorna lista do caminho encontrado
