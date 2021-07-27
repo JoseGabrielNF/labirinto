@@ -2,7 +2,6 @@
 # https://github.com/JoseGabrielNF
 from tkinter import *
 from heapq import heappush, heappop,heapify
-from scipy.spatial.distance import cityblock
 import time
 import numpy as np
 
